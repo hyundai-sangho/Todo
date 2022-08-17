@@ -4,6 +4,6 @@
 
 1. <https://hyundai-sangho.github.io/Todo/>
 
-2. Html, Css, Js
+2. HTML, CSS, JS
 
 3. 할 일 앱(디비 없음)
